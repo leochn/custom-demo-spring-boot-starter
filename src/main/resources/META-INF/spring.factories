@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.vnext.custom.demo.starter.hello.HelloServiceAutofiguration,\
+com.vnext.custom.demo.starter.utils.UtilsAutoconfiguration
